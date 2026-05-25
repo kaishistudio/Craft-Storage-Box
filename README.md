@@ -5,7 +5,7 @@ Organize your files like Minecraft items!
 [![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P9P585CX7ZG)
 
 ---
-![](Images/2026-05-25 083738.png)
+![1](Images/2026-05-25 083738.png)
 
 ## Features
 
