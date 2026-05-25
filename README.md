@@ -19,14 +19,14 @@ Organize your files like Minecraft items!
 - Each folder holds up to 27 items
 - Perfect for organizing by category (Mods, Saves, Textures, etc.)
 
-![](Images/2026-05-25 091359.png)
+![](Images/2.png)
 
 ### Quick Access Bar 
 - 9-slot quick access bar at the top
 - Store your most used files
 - Files stay in their slots even after restart
 
-![](Images/2026-05-25 091421.png)
+![](Images/3.png)
 
 ### File Operations
 - **Create Files**: Create new .txt files directly from the app
@@ -53,7 +53,7 @@ Organize your files like Minecraft items!
 - Edit button to open in default editor
 - Auto-save when closing
 
-![](Images/2026-05-25 091446.png)
+![](Images/4.png)
 
 ### Position Persistence
 - All file positions saved automatically
