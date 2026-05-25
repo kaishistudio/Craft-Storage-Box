@@ -2,7 +2,11 @@
 
 Organize your files like Minecraft items!
 
+[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P9P585CX7ZG)
+
 ---
+
+![](Images/2026-05-25 083738.png)
 
 ## Features
 
@@ -16,10 +20,14 @@ Organize your files like Minecraft items!
 - Each folder holds up to 27 items
 - Perfect for organizing by category (Mods, Saves, Textures, etc.)
 
+![](Images/2026-05-25 091359.png)
+
 ### Quick Access Bar 
 - 9-slot quick access bar at the top
 - Store your most used files
 - Files stay in their slots even after restart
+
+![](Images/2026-05-25 091421.png)
 
 ### File Operations
 - **Create Files**: Create new .txt files directly from the app
@@ -45,6 +53,8 @@ Organize your files like Minecraft items!
 - Page number navigation
 - Edit button to open in default editor
 - Auto-save when closing
+
+![](Images/2026-05-25 091446.png)
 
 ### Position Persistence
 - All file positions saved automatically
